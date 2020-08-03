@@ -1,2 +1,8 @@
-theme:jekyll-theme-cayman
-title:Welcome to the GitHub.io
+title: STMicroelectronics GitHub
+description: STMicroelectronics Open Source
+google_analytics: UA-1698022-17
+show_downloads: false
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
